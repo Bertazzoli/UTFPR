@@ -2,6 +2,7 @@
 pós
 Integrantes:
     Carlos Eduardo Silva Bertazzoli
+    João Marcos Consolin Baggio
     Projeto: Conexão wireless Fatec Ourinhos
     Resumo:
     
